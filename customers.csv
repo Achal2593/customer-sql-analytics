@@ -1,0 +1,31 @@
+customer_id,customer_name,city,state,age,gender,signup_date,customer_type
+1,Priya Sharma,Mumbai,Maharashtra,28,F,2022-01-15,Premium
+2,Rahul Verma,Delhi,Delhi,35,M,2022-03-20,Regular
+3,Sneha Nair,Bangalore,Karnataka,24,F,2021-11-05,Regular
+4,Amit Singh,Hyderabad,Telangana,42,M,2023-02-28,Premium
+5,Kavita Patel,Chennai,Tamil Nadu,31,F,2022-07-10,Regular
+6,Rohit Gupta,Pune,Maharashtra,38,M,2021-09-15,Premium
+7,Meera Joshi,Kolkata,West Bengal,22,F,2023-01-01,Regular
+8,Vikas Kumar,Ahmedabad,Gujarat,29,M,2022-05-20,Regular
+9,Anjali Rao,Mumbai,Maharashtra,45,F,2021-12-30,Premium
+10,Suresh Menon,Bangalore,Karnataka,37,M,2023-03-10,Regular
+11,Divya Reddy,Hyderabad,Telangana,26,F,2022-08-22,Regular
+12,Karan Malhotra,Delhi,Delhi,33,M,2021-10-14,Premium
+13,Pooja Iyer,Chennai,Tamil Nadu,29,F,2023-04-05,Regular
+14,Nikhil Desai,Pune,Maharashtra,41,M,2022-06-18,Premium
+15,Shruti Bose,Kolkata,West Bengal,27,F,2023-02-12,Regular
+16,Arun Tiwari,Mumbai,Maharashtra,36,M,2022-11-30,Regular
+17,Ritu Pandey,Delhi,Delhi,23,F,2023-05-20,Regular
+18,Sanjay Shah,Ahmedabad,Gujarat,48,M,2021-08-09,Premium
+19,Lakshmi Nair,Bangalore,Karnataka,32,F,2022-09-15,Regular
+20,Deepak Chopra,Mumbai,Maharashtra,44,M,2021-07-21,Premium
+21,Nandini Verma,Delhi,Delhi,25,F,2023-06-08,Regular
+22,Rajesh Kumar,Chennai,Tamil Nadu,39,M,2022-04-17,Regular
+23,Smita Kulkarni,Pune,Maharashtra,34,F,2022-12-25,Premium
+24,Varun Bajaj,Hyderabad,Telangana,30,M,2023-01-19,Regular
+25,Geeta Mathur,Kolkata,West Bengal,43,F,2021-06-14,Premium
+26,Harish Pillai,Bangalore,Karnataka,28,M,2022-10-03,Regular
+27,Asha Goswami,Mumbai,Maharashtra,51,F,2021-05-28,Premium
+28,Mukesh Trivedi,Delhi,Delhi,37,M,2022-02-16,Regular
+29,Preeti Saxena,Ahmedabad,Gujarat,26,F,2023-07-11,Regular
+30,Santosh Hegde,Bangalore,Karnataka,46,M,2021-04-22,Premium

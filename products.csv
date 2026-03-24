@@ -1,0 +1,21 @@
+product_id,product_name,category,brand,unit_price,cost_price
+1,Dell Laptop 15,Laptops,Dell,72000.0,52000.0
+2,HP Laptop 14,Laptops,HP,58000.0,41000.0
+3,Samsung Galaxy M54,Mobiles,Samsung,28000.0,19000.0
+4,Redmi Note 13,Mobiles,Xiaomi,18000.0,11000.0
+5,iPhone 14,Mobiles,Apple,79000.0,55000.0
+6,iPad 10th Gen,Tablets,Apple,44000.0,30000.0
+7,Samsung Tab A9,Tablets,Samsung,22000.0,14000.0
+8,Sony WH-1000XM5,Audio,Sony,29000.0,18000.0
+9,boAt Rockerz 450,Audio,boAt,2500.0,1200.0
+10,Logitech MX Master,Accessories,Logitech,8500.0,5000.0
+11,Keychron K2 Keyboard,Accessories,Keychron,7200.0,4500.0
+12,"Dell 24"" Monitor",Monitors,Dell,18000.0,12000.0
+13,"LG 27"" 4K Monitor",Monitors,LG,32000.0,21000.0
+14,WD 1TB External HDD,Storage,WD,4500.0,2800.0
+15,Samsung 512GB SSD,Storage,Samsung,6500.0,3800.0
+16,TP-Link Router AC750,Networking,TP-Link,2200.0,1300.0
+17,Epson L3252 Printer,Printers,Epson,12000.0,8000.0
+18,MS Office 365,Software,Microsoft,6999.0,1000.0
+19,Antivirus Pro 1Yr,Software,Kaspersky,1999.0,400.0
+20,USB-C Hub 7-in-1,Accessories,Anker,3500.0,1800.0
