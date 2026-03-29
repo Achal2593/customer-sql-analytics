@@ -15,6 +15,20 @@
 
 ---
 
+## 📋 Table of Contents
+- [Objective](#objective)
+- [Database Schema](#database-schema)
+- [Business Questions Answered](#business-questions-answered)
+- [Key Results](#key-results-kpis)
+- [SQL Highlights](#sql-highlights)
+- [SQL Concepts Covered](#sql-concepts-covered)
+- [Project Structure](#project-structure)
+- [Business Recommendations](#business-recommendations)
+- [How to Run](#how-to-run)
+- [About Me](#about-me)
+
+---
+
 ## 🖼️ Dashboard Preview
 
 ![SQL Analytics Dashboard](sql_analytics_dashboard.png)
